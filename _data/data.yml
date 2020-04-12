@@ -2,12 +2,10 @@ sidebar:
     about: False
     education: True
 
-    # Profile information
     name: Kane Armstrong
     tagline: Software Engineer
     avatar: profile.png
 
-    # Sidebar links
     email: kane.armstrong@outlook.com
     phone: 
     website: kanearmstrong.com
@@ -49,21 +47,133 @@ education:
       time: 2009 - 2011
       details: | 
 experiences:
-    - role: Some job
-      time: 2011
-      company: Some company
+    - role: Senior Software Engineer (Squad Lead)
+      time: 2020
+      company: Rush Digital
+      logo: rush-logo.png
+      details: |
+        Senior Software Engineer and squad lead at Rush on a product team for a major customer account.
+          - Bullet point 1
+          - Bullet point 2
+    - role: Senior Software Engineer (Backend)
+      time: 2019
+      company: Rush Digital
+      logo: rush-logo.png
+      details: |
+        Senior Software Engineer at Rush on the platform team for a major customer account.
+          - Contributed to the design and implementation of a notification system to enable sending hundreds
+          of thousands of push notifications at once, to replace a legacy system where this process took 
+          several hours
+          - Designed and implemented solutions to various BAU business problems and introduced new integrations
+          in an established microservices-based backend
+          - Assisted in the production release of changes in a monolithic deployment process, coordinating with
+          other teams to minimize the risk of regression and destabilization of production systems
+ # satisfied with everything below this line
+    - role: Senior Software Engineer (Technical Lead)
+      time: 2019
+      company: Valocity Ltd
+      logo: valocity-logo.png
+      details: |
+        Senior Software Engineer and Technical Lead at Valocity on the global platform team.
+          - Designed and implemented the solution and software architecture for the next generation
+          of the core product. This was designed to be scalable both technically, in order to support
+          thousands of concurrent users, and organizationally, in terms of enabling multiple teams to work
+          on the same components and to ship these across different geographic boundaries.
+          - Worked with business and technical stakeholders to establish sensible service boundaries,
+          and used these discussions to inform the design of microservices and decision making around 
+          pattern adoption (DDD, CQRS, event patterns, and others) 
+          - Streamlined development of microservices by building domain-agnostic templates that covered
+          typical boilerplate code, including request validation and RFC 7807 mappings, globalization 
+          and localization, OIDC authentication with permission-based authorization policies, logging and
+          telemetry, light-weight encapsulation of Entity Framework, database migrations, and more. 
+          - Streamlined the build and release process by implementing gitops-style, multi-stage, gated release 
+          pipelines in both GitLab and Azure DevOps, using a combination of shell scripts, YAML, kubectl 
+          and helm.
+          - Improved adherence to the principle of least privilege in CI/CD processes by shifting secrets
+          out of source control and CI/CD products, and into KeyVault, in conjunction with Azure AD
+          Pod Identity to allow pods to run as service principals.
+          - Improved software test processes by teaching developers how to write high-value tests, how to 
+          avoid brittle tests, and how to effectively use popular libraries such as Moq, AutoFixture, xUnit,
+          and in the case of integration testing, WebAppliactionFactory, Respawn, and Puppeteer.
+          - Designed and implemented an identity platform, using ASP.NET Core 2.2, IdentityServer 4, and 
+          ASP.NET Identity Core, and extended this so support SAML 2p SSO
+    - role: Senior Software Engineer
+      time: 2018
+      company: Valocity Ltd
+      logo: valocity-logo.png
+      details: |
+        Senior Software Engineer at Valocity.
+          - Achieved a 10-fold improvement to message handling performance by rewriting the backend 
+          message broker system
+          - Built a chat bot to demonstrate the viability of using virtual assistant software in mortgage lending;
+          this was a proof of concept designed to support a presentation at an innovation convention in Singapore.
+          - Designed and implemented microservices and a proof of concept identity management system
+          - Implemented various safe refactorings to and improved test coverage of untested legacy code
+          - TDD approach to general feature development and bug fixes
+    - role: Software Engineer
+      time: 2017-2018
+      company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Some description
-          - Bullet point 1
-          - Bullet point 2
-    - role: Some job without a logo
-      time: 2011
-      company: Some company
+        Software Engineer at Datacom on the Mobile Innovation team.
+          - Designed and implemented a global CMS platform for virtual/augmented reality applications 
+          for education. This included storing application details; application content; configuration 
+          and state data for peer-to-peer networking; licensing data; and identity and access management. 
+          The platform was designed to be compliant with the GDPR and data sovereignty constraints. 
+          - Assisted with the design and implementation of a system that used computer vision and various 
+          Azure services to support proactive accident and injury prevention in the workplace. This 
+          project was run in conjunction with Vulcan Steel, showcased at MS Build 2018, and was a finalist 
+          in the Microsoft Partner Awards.
+          - Wrote virtual assistant software for the Amazon Alexa service, using .NET Core
+          - Created a proof of concept predictive modeling system, for a customer in the engineering 
+          industry. This work included cleaning and preprocessing a large dataset, feature engineering,
+          dimensionality reduction using PCA, training regression models using LSTM networks, and 
+          presenting the output in a usable format.
+    - role: Software Developer
+      time: 2015-2017
+      company: Datacom Systems Ltd
+      logo: datacom-logo.png
       details: |
-        Some description
-          - Bullet point 1
-          - Bullet point 2
+        Software Developer at Datacom on the internal tools team.
+          - Designed and implemented software for a service desk automation project. This involved the 
+          automatic creation and assignment of support requests received via email, using a combination 
+          of business rules and machine learning techniques, including document classification and latent 
+          semantic analysis. Integrations included ININ, an interaction routing and assignment tool; 
+          Microsoft Exchange, using EWS; and CA Service Desk, an ITSM tool
+          - Wrote several pieces of software for maintaining data, workflow processes, and configuration, 
+          for various aspects of service delivery, including patching, reporting, and monitoring/alerting
+          - Wrote a service desk chat bot, integrating the Microsoft Bot Framework and CA Service Desk. 
+          Implemented support for phrase cycling, translation, authentication and authorization, regex 
+          matching, LUIS integration, QnA integration, spelling correction, sentiment analysis, and global 
+          behavior handlers, such as help, cancel, or escalate. This included writing middleware to enable 
+          internal use with an on-premise implementation of Skype for Business, using the UCWA and Direct 
+          Line APIs
+          - Wrote R scripts and SQL reports for pattern discovery in service desk tickets, and pattern 
+          discovery in timesheet data
+          - Wrote SQL reports for viewing application logs and application/database performance and health 
+          metrics
+    - role: Software Developer
+      time: 2011-2014
+      company: Datacom Systems Ltd
+      logo: datacom-logo.png
+      details: |
+        Software Developer at Datacom on an internal service delivery team.
+          - Designed and implemented software to automate daily checks and data entry tasks, achieving a 
+          1.25 FTE reduction in manual effort
+          - Created a system to automate portions of regular service reporting, achieving a 2.0 FTE 
+          reduction in manual effort
+          - Developed and maintained internal web applications, databases, and data warehouses
+          - Wrote SQL reports for service delivery and project management teams
+    - role: Service Desk Analyst
+      time: 2011
+      company: Datacom Systems Ltd
+      logo: datacom-logo.png
+      details: |
+        Application and IT support for over 50 enterprise customers and SMBs.
+          - Telephone and email support
+          - System administration
+          - Documentation and training
+          - Automated the generation of various Excel reports using VB, SQL, and ODBC
 
 # projects:
 #     title: Projects
