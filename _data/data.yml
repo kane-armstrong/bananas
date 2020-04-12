@@ -1,0 +1,71 @@
+sidebar:
+    about: False
+    education: True
+
+    # Profile information
+    name: Kane Armstrong
+    tagline: Software Engineer
+    avatar: profile.png
+
+    # Sidebar links
+    email: kane.armstrong@outlook.com
+    phone: 
+    website: kanearmstrong.com
+    linkedin: kanearmstrong
+    github: kane-armstrong
+    gitlab:
+    bitbucket:
+    twitter: '@karm015'
+    stack-overflow: 
+    codewars:
+    goodreads: 
+
+    languages:
+      - idiom: English
+        level: Native
+
+    interests:
+      - item: Running
+        link:
+
+      - item: Cycling
+        link:
+
+      - item: Reading
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+education:
+    - degree: BSc in Computer Science
+      university: The University of Auckland
+      time: 2009 - 2011
+      details: | 
+experiences:
+    - role: Some job
+      time: 2011
+      company: Some company
+      details: |
+        Some description
+          - Bullet point 1
+          - Bullet point 2
+
+# projects:
+#     title: Projects
+#     intro: >
+#       a b c d
+#     assignments:
+#       - title: one
+#         link: "link"
+#         tagline: "one liner"
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
