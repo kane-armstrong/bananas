@@ -28,6 +28,14 @@ p {
     line-height: 1.5;
 }
 
+.experience-image {
+    height: 50px;
+    float: left;
+    padding-right: 10px;
+    max-width: 50px;
+    object-fit: contain;
+}
+
 .wrapper {
     background:$theme-color;
     max-width: 1000px;

@@ -12,6 +12,12 @@
   {% for experience in experiences %}
   <div class="item">
 
+    {% if experience.logo %}
+
+    <img class="experience-image" src="{{ site.baseurl }}/assets/images/{{ experience.logo }}" alt="job logo" />
+
+    {% endif %}
+
     <div class="meta">
 
       <div class="upper-row">

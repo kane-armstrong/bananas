@@ -52,6 +52,14 @@ experiences:
     - role: Some job
       time: 2011
       company: Some company
+      logo: datacom-logo.png
+      details: |
+        Some description
+          - Bullet point 1
+          - Bullet point 2
+    - role: Some job without a logo
+      time: 2011
+      company: Some company
       details: |
         Some description
           - Bullet point 1
