@@ -35,6 +35,12 @@
     </div><!--//details-->
     {% endif %}
 
+    {% if experience.technology %}
+    <div class="technology">
+      <b>Technology used:</b> {{ experience.technology }}
+    </div><!--//technology-->
+    {% endif %}
+
   </div><!--//item-->
   {% endfor %}
 

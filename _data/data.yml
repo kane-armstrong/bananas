@@ -55,6 +55,8 @@ experiences:
         Senior Software Engineer and squad lead at Rush on a product team for a major customer account.
           - Bullet point 1
           - Bullet point 2
+      technology: |
+        Tech 1, tech 2, tech 3
     - role: Senior Software Engineer (Backend)
       time: 2019
       company: Rush Digital
