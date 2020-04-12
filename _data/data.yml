@@ -35,12 +35,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Experienced Software Engineer with a demonstrated history of working in the information technology 
+        and IT services industry. Strong engineering professional skilled in software design, solution 
+        architecture, cloud architecture, DevOps, and software testing. Comfortable working in an agile 
+        environment, mentoring less experienced team members and communicating with both technical and 
+        business stakeholders. 
 education:
     - degree: BSc in Computer Science
       university: The University of Auckland
@@ -102,7 +101,6 @@ experiences:
         Docker,
         Kubernetes,
         DevOps (Jenkins, Octopus)
- # satisfied with everything below this line
     - role: Senior Software Engineer (Technical Lead)
       time: 2019
       company: Valocity Ltd
