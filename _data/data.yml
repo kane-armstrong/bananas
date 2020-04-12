@@ -53,10 +53,30 @@ experiences:
       logo: rush-logo.png
       details: |
         Senior Software Engineer and squad lead at Rush on a product team for a major customer account.
-          - Bullet point 1
-          - Bullet point 2
+          - Implemented features and bug fixes for a new product
+          - Coordinated with product owners, backend and frontend developers, and internal stakeholders
+          to improve confidence in the project, as well as visibility of project status, progress on 
+          deliverables, and outstanding work
+          - Significantly improved the visibility of errors and system performance, and ease of 
+          troubleshooting and incident resolution, by reviewing and improving logging and telemetry and
+          creating various reports and dashboards in Sumologic
+          - Improved the release process by decomposing the existing monolithic deployment into several
+          smaller ones (based on identification of appropriate service boundaries), using helm, Jenkins,
+          and Octopus
       technology: |
-        Tech 1, tech 2, tech 3
+        ASP.NET Core,
+        C#,
+        PHP,
+        Microservices,
+        Actor model (Akka.NET with Lighthouse),
+        Dapper,
+        Azure Cloud (various PaaS and SaaS services),
+        Message Queueing (Azure Service Bus),
+        Azure SQL,
+        Docker,
+        Kubernetes,
+        DevOps (Jenkins, Octopus, helm),
+        Voyager
     - role: Senior Software Engineer (Backend)
       time: 2019
       company: Rush Digital
@@ -70,6 +90,18 @@ experiences:
           in an established microservices-based backend
           - Assisted in the production release of changes in a monolithic deployment process, coordinating with
           other teams to minimize the risk of regression and destabilization of production systems
+      technology: |
+        ASP.NET Core,
+        C#,
+        Microservices,
+        Entity Framework,
+        Dapper,
+        Azure Cloud (various PaaS and SaaS services),
+        Message Queueing (Azure Service Bus),
+        Azure SQL,
+        Docker,
+        Kubernetes,
+        DevOps (Jenkins, Octopus)
  # satisfied with everything below this line
     - role: Senior Software Engineer (Technical Lead)
       time: 2019
@@ -99,6 +131,24 @@ experiences:
           and in the case of integration testing, WebAppliactionFactory, Respawn, and Puppeteer.
           - Designed and implemented an identity platform, using ASP.NET Core 2.2, IdentityServer 4, and 
           ASP.NET Identity Core, and extended this so support SAML 2p SSO
+      technology: |
+        ASP.NET Core,
+        C#,
+        Microservices,
+        Entity Framework,
+        Dapper,
+        Application Insights,
+        Identity Server 4,
+        Azure Cloud (various PaaS and SaaS services),
+        Scripting (PowerShell and bash),
+        Message Queueing (Azure Service Bus),
+        Azure SQL,
+        Redis,
+        Docker,
+        Kubernetes,
+        DevOps (Azure DevOps, GitLab, helm, kubectl, bash),
+        nginx,
+        API Gateways (Ocelot)
     - role: Senior Software Engineer
       time: 2018
       company: Valocity Ltd
@@ -112,6 +162,21 @@ experiences:
           - Designed and implemented microservices and a proof of concept identity management system
           - Implemented various safe refactorings to and improved test coverage of untested legacy code
           - TDD approach to general feature development and bug fixes
+      technology: |
+        ASP.NET (MVC),
+        .NET Framework,
+        ASP.NET Core,
+        C#,
+        JavaScript and jQuery,
+        Microservices,
+        Entity Framework,
+        Identity Server 4,
+        Azure Cloud (various PaaS and SaaS services),
+        Scripting (PowerShell),
+        Message Queueing (RabbitMQ, Azure Service Bus),
+        Azure SQL,
+        SQL Server,
+        DevOps (Visual Studio Online, Octopus)
     - role: Software Engineer
       time: 2017-2018
       company: Datacom Systems Ltd
@@ -131,6 +196,28 @@ experiences:
           industry. This work included cleaning and preprocessing a large dataset, feature engineering,
           dimensionality reduction using PCA, training regression models using LSTM networks, and 
           presenting the output in a usable format.
+      technology: |
+        ASP.NET Core,
+        .NET Core,
+        C#,
+        Microservices,
+        Entity Framework,
+        Dapper,
+        Angular 4 and 5,
+        node,
+        Application Insights,
+        Identity Server 4,
+        Azure Cloud (various PaaS and SaaS services),
+        AWS (Alexa, S3, Lambda, EC2, CloudWatch, CloudFormation)
+        Scripting (PowerShell and bash),
+        Scheduling (Quartz and Hangfire)
+        Message Queueing (RabbitMQ, Azure Service Bus),
+        Azure SQL,
+        Tensorflow,
+        YOLO,
+        Jupyter Notebooks,
+        Docker,
+        DevOps (Visual Studio Online)
     - role: Software Developer
       time: 2015-2017
       company: Datacom Systems Ltd
@@ -154,6 +241,29 @@ experiences:
           discovery in timesheet data
           - Wrote SQL reports for viewing application logs and application/database performance and health 
           metrics
+      technology: |
+        ASP.NET (Web API and MVC),
+        .NET Framework,
+        C#,
+        JavaScript and jQuery,
+        Entity Framework,
+        Dapper,
+        Azure Cloud (various PaaS and SaaS services),
+        Scripting (PowerShell and Python),
+        Scheduling (Quartz and Hangfire)
+        Exchange Web Services,
+        Message Queueing (MSMQ, RabbitMQ),
+        SQL Server,
+        Microsoft BI Stack (SSRS, SSIS, SSAS),
+        R,
+        MySQL, 
+        PostgreSQL, 
+        Microsoft Bot Framework, 
+        UCWA,
+        Windows Server,
+        IIS,
+        Octopus,
+        nginx
     - role: Software Developer
       time: 2011-2014
       company: Datacom Systems Ltd
@@ -166,6 +276,22 @@ experiences:
           reduction in manual effort
           - Developed and maintained internal web applications, databases, and data warehouses
           - Wrote SQL reports for service delivery and project management teams
+      technology: |
+        ASP.NET (Web API and MVC),
+        .NET Framework,
+        C#,
+        VB,
+        JavaScript and jQuery,
+        ADO.NET,
+        Entity Framework,
+        NHibernate,
+        Scripting (PowerShell and Python),
+        Scheduling (Quartz),
+        Exchange Web Services,
+        SQL Server,
+        Microsoft BI Stack (SSRS, SSIS, SSAS),
+        Windows Server,
+        IIS
     - role: Service Desk Analyst
       time: 2011
       company: Datacom Systems Ltd
