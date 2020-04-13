@@ -106,7 +106,9 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer and Technical Lead at Valocity on the global platform team.
+        Senior Software Engineer and Technical Lead at Valocity on the global platform team. I was responsible
+        for designing and implementing the next generation of the product and leading a team of developers/testers
+        to deliver this product to a large market.
           - Designed and implemented the solution and software architecture for the next generation
           of the core product. This was designed to be scalable both technically, in order to support
           thousands of concurrent users, and organizationally, in terms of enabling multiple teams to work
@@ -152,7 +154,9 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer at Valocity.
+        Senior Software Engineer at Valocity. I was reposible for feature development and bug fixes as part of 
+        an agile software development team, as well as designing and implementing new software to enable migrating
+        away from a .NET Framework monolith to microservices using .NET Core.
           - Achieved a 10-fold improvement to message handling performance by rewriting the backend 
           message broker system
           - Built a chat bot to demonstrate the viability of using virtual assistant software in mortgage lending;
@@ -180,7 +184,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Engineer at Datacom on the Mobile Innovation team.
+        Software Engineer at Datacom on the Mobile Innovation team. I was responsible for designing and
+        implementing solutions to business problems for commercial customers, across engineering and 
+        education verticals.
           - Designed and implemented a global CMS platform for virtual/augmented reality applications 
           for education. This included storing application details; application content; configuration 
           and state data for peer-to-peer networking; licensing data; and identity and access management. 
@@ -221,7 +227,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on the internal tools team.
+        Software Developer at Datacom on the internal tools team. I was responsible for automating
+        portions of BAU system administration and frontline IT support, and enabling efficiency gains
+        by developing paperless systems in the planning of system adminstration tasks.
           - Designed and implemented software for a service desk automation project. This involved the 
           automatic creation and assignment of support requests received via email, using a combination 
           of business rules and machine learning techniques, including document classification and latent 
@@ -267,7 +275,10 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on an internal service delivery team.
+        Software Developer at Datacom on an internal service delivery team. I was responsible for
+        automating manual/administrative tasks, developing new and maintaining existing internal web 
+        applications, and improving the visibility of aspects of service delivery and project management
+        by developing databases, datawarehouses, and SQL reports.
           - Designed and implemented software to automate daily checks and data entry tasks, achieving a 
           1.25 FTE reduction in manual effort
           - Created a system to automate portions of regular service reporting, achieving a 2.0 FTE 
