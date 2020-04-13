@@ -154,7 +154,7 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer at Valocity. I was reposible for feature development and bug fixes as part of 
+        Senior Software Engineer at Valocity. I was responsible for feature development and bug fixes as part of 
         an agile software development team, as well as designing and implementing new software to enable migrating
         away from a .NET Framework monolith to microservices using .NET Core.
           - Achieved a 10-fold improvement to message handling performance by rewriting the backend 
@@ -278,7 +278,7 @@ experiences:
         Software Developer at Datacom on an internal service delivery team. I was responsible for
         automating manual/administrative tasks, developing new and maintaining existing internal web 
         applications, and improving the visibility of aspects of service delivery and project management
-        by developing databases, datawarehouses, and SQL reports.
+        by developing databases, data warehouses, and SQL reports.
           - Designed and implemented software to automate daily checks and data entry tasks, achieving a 
           1.25 FTE reduction in manual effort
           - Created a system to automate portions of regular service reporting, achieving a 2.0 FTE 
