@@ -35,18 +35,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I'm a software engineer. I like building things and solving problems. I've spent the last 10 years
-        working as a professional .NET developer in various parts of the Microsoft stack, and the last 5 
-        years alternating between designing and building microservices and lamenting how frequently they 
-        end becoming microliths, and as a consequence pining for a good old fashioned monolith. I've spent 
+        I'm a software engineer. I like building things and solving problems. I've spent the last 15 years writing
+        code, the last 10 years working as a professional .NET developer in various parts of the Microsoft stack, and 
+        the last 5 years alternating between designing and building microservices and lamenting how frequently they 
+        end becoming microliths (and as a consequence pining for a good old fashioned monolith). I've spent 
         a lot of time in the cloud (mostly Azure, and very recently, AWS) and a couple of years in Kubernetes.
-        .NET Core is awesome! Long live the vertical slice.
+        .NET Core is awesome; long live the vertical slice!
 education:
     - degree: BSc in Computer Science
       university: The University of Auckland
       time: 2009 - 2011
       details: | 
 experiences:
+    - role: Senior Developer
+      time: 2020
+      company: Xero
+      logo: xero-logo.png
+      details: |
+        Senior Developer on the practice platform team. I work on mostly backend stuff, and alternate between
+        finding problems and solving them.
+      technology: |
+        .NET Framework,
+        ASP.NET Core,
+        C#,
+        Entity Framework,
+        AWS
     - role: Senior Software Engineer (Squad Lead)
       time: 2020
       company: Rush Digital
