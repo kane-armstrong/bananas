@@ -35,11 +35,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Experienced Software Engineer with a demonstrated history of working in the information technology 
-        and IT services industry. Strong engineering professional skilled in software design, solution 
-        architecture, cloud architecture, DevOps, and software testing. Comfortable working in an agile 
-        environment, mentoring less experienced team members and communicating with both technical and 
-        business stakeholders. 
+        I'm a software engineer. I like building things and solving problems. I've spent the last 10 years
+        working as a professional .NET developer in various parts of the Microsoft stack, and the last 5 
+        years alternating between designing and building microservices and lamenting how frequently they 
+        end becoming microliths, and as a consequence pining for a good old fashioned monolith. I've spent 
+        a lot of time in the cloud (mostly Azure, and very recently, AWS) and a couple of years in Kubernetes.
+        .NET Core is awesome! Long live the vertical slice.
 education:
     - degree: BSc in Computer Science
       university: The University of Auckland
