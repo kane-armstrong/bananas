@@ -35,12 +35,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        I'm a software engineer. I like building things and solving problems. I've spent the last 15 years writing
-        code, the last 10 years working as a professional .NET developer in various parts of the Microsoft stack, and 
-        the last 5 years alternating between designing and building microservices and lamenting how frequently they 
-        end becoming microliths (and as a consequence pining for a good old fashioned monolith). I've spent 
-        a lot of time in the cloud (mostly Azure, and very recently, AWS) and a couple of years in Kubernetes.
-        .NET Core is awesome; long live the vertical slice!
+      I'm an experienced software engineer that loves building things, finding problems, and solving them. 
+      I have a strong background in the IT services industry, and have recently switched over to the product 
+      side of things. I'm skilled in software design, software development, solution architecture, cloud 
+      architecture, DevOps, and software testing. I'm comfortable with agile, scrum, mentoring, and (over) 
+      communicating. 
 education:
     - degree: BSc in Computer Science
       university: The University of Auckland
