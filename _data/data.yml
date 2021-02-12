@@ -62,13 +62,17 @@ experiences:
         database schema changes, test framework changes and establishing the associated testing conventions,
         significant software architecture changes, and more.
         - Ongoing development of feature requests and bug fixes
+        - Wrote and maintained documentation in both Confluence and in internal documentation tool
+        - Regularly facilitated both scheduled and ad hoc planning and refinment sessions
       technology: |
         .NET Framework,
         ASP.NET Core,
         C#,
         Entity Framework,
         Dapper,
-        AWS
+        EventStore,
+        AWS,
+        DevOps (TeamCity, Octopus)
     - role: Senior Software Engineer (Squad Lead)
       time: 2020
       company: Rush Digital
