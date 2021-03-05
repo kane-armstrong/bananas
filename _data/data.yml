@@ -46,6 +46,16 @@ education:
       time: 2009 - 2011
       details: | 
 experiences:
+    - role: Technical Director
+      time: 2021
+      company: Rush Digital
+      logo: rush-logo.png
+      details: |
+        Technical Director responsible for coordinating and managing several teams in strategic goal setting,
+        strategic research, and planning, as well as day-to-day planning and supporting direct reports in a
+        career development capacity. I also support both structured and unstructured business development
+        opportunities, and act as an individual contributor when necessary, spanning backend development,
+        frontend development, and DevOps.
     - role: Senior Developer
       time: 2020
       company: Xero
