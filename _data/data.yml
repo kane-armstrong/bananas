@@ -55,24 +55,39 @@ experiences:
         strategic research, and planning, as well as day-to-day planning and supporting direct reports in a
         career development capacity. I also support both structured and unstructured business development
         opportunities, and act as an individual contributor when necessary, spanning backend development,
-        frontend development, and DevOps.
+        frontend development, solution architecture, and DevOps.
+        - Oversaw development of the COVID Tracer App, and contributed to solution architecture
+        - Oversaw development of several other client projects
+        - People lead with up to 8 concurrent direct reports
+        - Acted as hiring manager for a number of technical roles
+        - Acted as an individual contributor on one our largest client account
+      technology: |
+        ASP.NET Core,
+        C#,
+        Azure,
+        AWS,
+        SQL Server,
+        DynamoDB,
+        Kubernetes,
+        DevOps (Jenkins, Octopus),
+        Distributed systems (serverless, microservices)
     - role: Senior Developer
       time: 2020-2021
       company: Xero
       logo: xero-logo.png
       details: |
-        Senior Developer on the practice platform team. I act as a lead in a team of 4 developers and one
+        Senior Developer on the practice platform team. I acted as a lead in a team of 4 developers and one
         product owner.
-        - Guided the refactoring of an existing .NET Framework application responsible for synchronizing
+        - Guided the refactoring of an existing .NET Framework application responsible for replicating
         data between different services
         - Guided a significant refactoring effort for an existing .NET Core web service; this included
         identifying, explaining, and quantifying the technical shortcomings of the existing solution,
         suggesting and prioritizing improvements, mentoring team members through the process of implementing
-        these solutions, and contributing changes towards these improvements. These improvements included
-        database schema changes, test framework changes and establishing the associated testing conventions,
-        significant software architecture changes, and more.
+        these this work, and contributing towards the implementation. These improvements included
+        database schema changes and database performance tuning, test framework changes and establishing
+        and justifying testing conventions, significant software architecture changes, and more.
         - Ongoing development of feature requests and bug fixes
-        - Wrote and maintained documentation in both Confluence and in internal documentation tool
+        - Wrote and maintained documentation in both Confluence and in an internal documentation tool
         - Regularly facilitated both scheduled and ad hoc planning and refinment sessions
       technology: |
         .NET Framework,
