@@ -86,9 +86,7 @@ experiences:
         these this work, and contributing towards the implementation. These improvements included
         database schema changes and database performance tuning, test framework changes and establishing
         and justifying testing conventions, significant software architecture changes, and more.
-        - Ongoing development of feature requests and bug fixes
-        - Wrote and maintained documentation in both Confluence and in an internal documentation tool
-        - Regularly facilitated both scheduled and ad hoc planning and refinment sessions
+        - TDD approach to development of features and implementing bug fixes
       technology: |
         .NET Framework,
         ASP.NET Core,
