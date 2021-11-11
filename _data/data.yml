@@ -51,16 +51,14 @@ experiences:
       company: Rush Digital
       logo: rush-logo.png
       details: |
-        Technical Director responsible for coordinating and managing several teams in strategic goal setting,
-        strategic research, and planning, as well as day-to-day planning and supporting direct reports in a
-        career development capacity. I also support both structured and unstructured business development
-        opportunities, and act as an individual contributor when necessary, spanning backend development,
-        frontend development, solution architecture, and DevOps.
+      Technical Director overseeing several cross-functional teams across a range of client projects.
         - Oversaw development of the COVID Tracer App, and contributed to solution architecture
-        - Oversaw development of several other client projects
-        - People lead with up to 8 concurrent direct reports
-        - Acted as hiring manager for a number of technical roles
-        - Acted as an individual contributor completeing development tasks on a large client account
+        - Guided, coached and lead project teams, delegating tasks and evaluating performance and progression of
+        project pace.
+        - Recruited high-caliber development personnel, prioritizing candidates with history of helping employers
+        execute business goals by exceeding expectations.
+        - Worked closely with customers, internal staff and other stakeholders to determine planning, implementation
+        and integration of cloud-based solutions.
       technology: |
         ASP.NET Core,
         C#,
@@ -71,22 +69,19 @@ experiences:
         Kubernetes,
         DevOps (Jenkins, Octopus),
         Distributed systems (serverless, microservices)
-    - role: Senior Developer
+    - role: Lead Developer
       time: 2020-2021
       company: Xero
       logo: xero-logo.png
       details: |
         Senior Developer on the practice platform team. I acted as a lead in a team of 4 developers and one
         product owner.
-        - Guided the refactoring of an existing .NET Framework application responsible for replicating
-        data between different services
-        - Guided a significant refactoring effort for an existing .NET Core web service; this included
-        identifying, explaining, and quantifying the technical shortcomings of the existing solution,
-        suggesting and prioritizing improvements, mentoring team members through the process of implementing
-        these this work, and contributing towards the implementation. These improvements included
-        database schema changes and database performance tuning, test framework changes and establishing
-        and justifying testing conventions, significant software architecture changes, and more.
-        - TDD approach to development of features and implementing bug fixes
+        - Revised, modularized and updated old code bases to modern development standards, reducing operating costs
+        and improving functionality.
+        - Collaborated on stages of the software development lifecycle from requirement gathering to production
+        releases.
+        - Designed and maintained streamlined, reusable and reliable code for use within distributed cloud environments,
+        using a test-driven approach.
       technology: |
         .NET Framework,
         ASP.NET Core,
@@ -95,23 +90,18 @@ experiences:
         Dapper,
         EventStore,
         AWS,
-        DevOps (TeamCity, Octopus)
-    - role: Senior Software Engineer (Squad Lead)
+        DevOps (TeamCity, Octopus),
+        Infrastructure as Code (Terraform, Pulumi)
+    - role: Lead Software Engineer
       time: 2020
       company: Rush Digital
       logo: rush-logo.png
       details: |
         Senior Software Engineer and squad lead at Rush on a product team for a major customer account.
-          - Implemented features and bug fixes for a new product
-          - Coordinated with product owners, backend and frontend developers, and internal stakeholders
-          to improve confidence in the project, as well as visibility of project status, progress on 
-          deliverables, and outstanding work
-          - Significantly improved the visibility of errors and system performance, and ease of 
-          troubleshooting and incident resolution, by reviewing and improving logging and telemetry and
-          creating various reports and dashboards in Sumologic
-          - Improved the release process by decomposing the existing monolithic deployment into several
-          smaller ones (based on identification of appropriate service boundaries), using helm, Jenkins,
-          and Octopus
+        - Worked with software development and testing team members to design and develop robust solutions to meet
+        client requirements for functionality, scalability and performance.
+        - Communicated with internal stakeholders to illustrate deficits and bottlenecks within existing software.
+        - Improved DevOps across deployment and testing strategies and application monitoring.
       technology: |
         ASP.NET Core,
         C#,
@@ -124,7 +114,8 @@ experiences:
         Azure SQL,
         Docker,
         Kubernetes,
-        DevOps (Jenkins, Octopus, helm),
+        DevOps (Jenkins, Octopus, helm),,
+        Infrastructure as Code (Terraform)
         Voyager
     - role: Senior Software Engineer (Backend)
       time: 2019
@@ -132,13 +123,11 @@ experiences:
       logo: rush-logo.png
       details: |
         Senior Software Engineer at Rush on the platform team for a major customer account.
-          - Contributed to the design and implementation of a notification system to enable sending hundreds
-          of thousands of push notifications at once, to replace a legacy system where this process took 
-          several hours
-          - Designed and implemented solutions to various BAU business problems and introduced new integrations
-          in an established microservices-based backend
-          - Assisted in the production release of changes in a monolithic deployment process, coordinating with
-          other teams to minimize the risk of regression and destabilization of production systems
+        - Collaborated with other developers to design and implement a new notifications system that achieved a
+        100-fold improvement to notification performance.
+        - Completed analysis, design, implementation, and testing phases of software development life cycle in
+        an established cloud-based microservices architecture.
+        - Orchestrated efficient large-scale software deployments.
       technology: |
         ASP.NET Core,
         C#,
@@ -150,7 +139,8 @@ experiences:
         Azure SQL,
         Docker,
         Kubernetes,
-        DevOps (Jenkins, Octopus)
+        DevOps (Jenkins, Octopus),
+        Infrastructure as Code (Terraform)
     - role: Senior Software Engineer (Technical Lead)
       time: 2019
       company: Valocity Ltd
