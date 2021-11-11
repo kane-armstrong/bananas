@@ -51,7 +51,7 @@ experiences:
       company: Rush Digital
       logo: rush-logo.png
       details: |
-      Technical Director overseeing several cross-functional teams across a range of client projects.
+        Technical Director overseeing several cross-functional teams across a range of client projects
         - Oversaw development of the COVID Tracer App, and contributed to solution architecture
         - Guided, coached and lead project teams, delegating tasks and evaluating performance and progression of
         project pace.
@@ -146,31 +146,13 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer and Technical Lead at Valocity on the global platform team. I was responsible
-        for designing and implementing the next generation of the product and leading a team of developers/testers
-        to deliver this product to a large market.
-          - Designed and implemented the solution and software architecture for the next generation
-          of the core product. This was designed to be scalable both technically, in order to support
-          thousands of concurrent users, and organizationally, in terms of enabling multiple teams to work
-          on the same components and to ship these across different geographic boundaries.
-          - Worked with business and technical stakeholders to establish sensible service boundaries,
-          and used these discussions to inform the design of microservices and decision making around 
-          pattern adoption (DDD, CQRS, event patterns, and others) 
-          - Streamlined development of microservices by building domain-agnostic templates that covered
-          typical boilerplate code, including request validation and RFC 7807 mappings, globalization 
-          and localization, OIDC authentication with permission-based authorization policies, logging and
-          telemetry, light-weight encapsulation of Entity Framework, database migrations, and more. 
-          - Streamlined the build and release process by implementing gitops-style, multi-stage, gated release 
-          pipelines in both GitLab and Azure DevOps, using a combination of shell scripts, YAML, kubectl 
-          and helm.
-          - Improved adherence to the principle of least privilege in CI/CD processes by shifting secrets
-          out of source control and CI/CD products, and into KeyVault, in conjunction with Azure AD
-          Pod Identity to allow pods to run as service principals.
-          - Improved software test processes by teaching developers how to write high-value tests, how to 
-          avoid brittle tests, and how to effectively use popular libraries such as Moq, AutoFixture, xUnit,
-          and in the case of integration testing, WebAppliactionFactory, Respawn, and Puppeteer.
-          - Designed and implemented an identity platform, using ASP.NET Core 2.2, IdentityServer 4, and 
-          ASP.NET Identity Core, and extended this so support SAML 2p SSO
+        Senior Software Engineer and Technical Lead at Valocity on the global platform team. I was responsible for designing and
+        implementing the next generation of the product and leading a team of developers and testers to deliver this product to a
+        large market.
+        - Led the design and implementation of a new cloud-based valuation product to serve the Indian market. This was designed to
+        operate at scale, using microservices hosted in Kubernetes, with a focus on loose coupling, high observability, and ensuring
+        service boundaries were aligned to business concepts.
+        - Designed and implemented DevOps pipelines, using GitLab and later Azure Devops.
       technology: |
         ASP.NET Core,
         C#,
@@ -197,13 +179,10 @@ experiences:
         Senior Software Engineer at Valocity. I was responsible for feature development and bug fixes as part of 
         an agile software development team, as well as designing and implementing new software to enable migrating
         away from a .NET Framework monolith to microservices using .NET Core.
-          - Achieved a 10-fold improvement to message handling performance by rewriting the backend 
-          message broker system
-          - Built a chat bot to demonstrate the viability of using virtual assistant software in mortgage lending;
-          this was a proof of concept designed to support a presentation at an innovation convention in Singapore.
-          - Designed and implemented microservices and a proof of concept identity management system
-          - Implemented various safe refactorings to and improved test coverage of untested legacy code
-          - TDD approach to general feature development and bug fixes
+        - Achieved a 10-fold improvement to message handling performance by revising and optimizing a backend message
+        broker system
+        - Test-driven approach to software development, with projects spanning designing and building microservices, serverless
+        applications, and chatbots
       technology: |
         ASP.NET (MVC),
         .NET Framework,
@@ -231,10 +210,9 @@ experiences:
           for education. This included storing application details; application content; configuration 
           and state data for peer-to-peer networking; licensing data; and identity and access management. 
           The platform was designed to be compliant with the GDPR and data sovereignty constraints. 
-          - Assisted with the design and implementation of a system that used computer vision and various 
-          Azure services to support proactive accident and injury prevention in the workplace. This 
-          project was run in conjunction with Vulcan Steel, showcased at MS Build 2018, and was a finalist 
-          in the Microsoft Partner Awards.
+          - Collaborated with other developers to design andimplement a system that used computer vision and various 
+          Azure services to support accident and injury prevention in the workplace. This project was showcased at
+          MS Build 2018, and was a finalist in the Microsoft Partner Awards.
           - Wrote virtual assistant software for the Amazon Alexa service, using .NET Core
           - Created a proof of concept predictive modeling system, for a customer in the engineering 
           industry. This work included cleaning and preprocessing a large dataset, feature engineering,
@@ -267,26 +245,15 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on an internal tools team. I was responsible for automating
-        portions of BAU system administration and frontline IT support, and enabling efficiency gains
-        by developing paperless systems in the planning of system administration tasks.
-          - Designed and implemented software for a service desk automation project. This involved the 
-          automatic creation and assignment of support requests received via email, using a combination 
-          of business rules and machine learning techniques, including document classification and latent 
-          semantic analysis. Integrations included ININ, an interaction routing and assignment tool; 
-          Microsoft Exchange, using EWS; and CA Service Desk, an ITSM tool
-          - Wrote several pieces of software for maintaining data, workflow processes, and configuration, 
-          for various aspects of service delivery, including patching, reporting, and monitoring/alerting
-          - Wrote a service desk chat bot, integrating the Microsoft Bot Framework and CA Service Desk. 
-          Implemented support for phrase cycling, translation, authentication and authorization, regex 
-          matching, LUIS integration, QnA integration, spelling correction, sentiment analysis, and global 
-          behavior handlers, such as help, cancel, or escalate. This included writing middleware to enable 
-          internal use with an on-premise implementation of Skype for Business, using the UCWA and Direct 
-          Line APIs
-          - Wrote R scripts and SQL reports for pattern discovery in service desk tickets, and pattern 
-          discovery in timesheet data
-          - Wrote SQL reports for viewing application logs and application/database performance and health 
-          metrics
+        Software Developer at Datacom on an internal tools team.
+        - Designed and implemented software for a service desk automation project. This involved the automatic creation and
+        assignment of support requests received via email, using a combination of business rules and machine learning techniques,
+        including document classification and latent semantic analysis. 
+        - Wrote a service desk chat bot, integrating the Microsoft Bot Framework and CA Service Desk. Implemented support for
+        phrase cycling, translation, authentication and authorization, regex matching, LUIS integration, QnA integration, spelling
+        correction, sentiment analysis, and global behavior handlers, such as help, cancel, or escalate. This included writing
+        middleware to enable internal use with an on-premise implementation of Skype for Business, using the UCWA and Direct Line APIs
+        - Designed, developed, and maintained internal web applications, databases, data warehouses, and SQL reports
       technology: |
         ASP.NET (Web API and MVC),
         .NET Framework,
@@ -315,16 +282,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on an internal service delivery team. I was responsible for
-        automating manual/administrative tasks, developing new and maintaining existing internal web 
-        applications, and improving the visibility of aspects of service delivery and project management
-        by developing databases, data warehouses, and SQL reports.
-          - Designed and implemented software to automate daily checks and data entry tasks, achieving a 
-          1.25 FTE reduction in manual effort
-          - Created a system to automate portions of regular service reporting, achieving a 2.0 FTE 
-          reduction in manual effort
-          - Developed and maintained internal web applications, databases, and data warehouses
-          - Wrote SQL reports for service delivery and project management teams
+      Software Developer at Datacom on an internal service delivery team. 
+      - Automated various manual and administrative tasks, saving an overall 3.25 FTE worth of human effort
+      - Developed and maintained internal web applications, databases, data warehouses, and SQL reports
       technology: |
         ASP.NET (Web API and MVC),
         .NET Framework,
@@ -347,10 +307,6 @@ experiences:
       logo: datacom-logo.png
       details: |
         Application and IT support for over 50 enterprise customers and SMBs.
-          - Telephone and email support
-          - System administration
-          - Documentation and training
-          - Automated the generation of various Excel reports using VB, SQL, and ODBC
 
 # projects:
 #     title: Projects
