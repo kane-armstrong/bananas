@@ -282,9 +282,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-      Software Developer at Datacom on an internal service delivery team. 
-      - Automated various manual and administrative tasks, saving an overall 3.25 FTE worth of human effort
-      - Developed and maintained internal web applications, databases, data warehouses, and SQL reports
+        Software Developer at Datacom on an internal service delivery team. 
+        - Automated various manual and administrative tasks, saving an overall 3.25 FTE worth of human effort
+        - Developed and maintained internal web applications, databases, data warehouses, and SQL reports
       technology: |
         ASP.NET (Web API and MVC),
         .NET Framework,
