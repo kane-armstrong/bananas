@@ -35,11 +35,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm an experienced software engineer that loves building things, finding problems, and solving them. 
-      I have a strong background in the IT services industry, and have recently switched over to the product 
-      side of things. I'm skilled in software design, software development, solution architecture, cloud 
-      architecture, DevOps, and software testing. I'm comfortable with agile, scrum, mentoring, and (over) 
-      communicating. 
+      I'm a predominantly backend software engineer with experience in building a wide variety of applications,
+      with my focus these past several years being on building scalable REST APIs and distributed systems. I love
+      software development and enjoy working on every part of the SDLC, from project inception all the way to ensuring
+      things are working properly in production. I'm especially passionate about quality assurance and continuous
+      delivery. I enjoy working on fun, collaborative teams that focus on building the best possible experience for
+      customers and their fellow developers alike.
 education:
     - degree: BSc in Computer Science
       university: The University of Auckland
@@ -51,14 +52,8 @@ experiences:
       company: Rush Digital
       logo: rush-logo.png
       details: |
-        Technical Director overseeing several cross-functional teams across a range of client projects
-        - Oversaw development of the COVID Tracer App, and contributed to solution architecture
-        - Guided, coached and lead project teams, delegating tasks and evaluating performance and progression of
-        project pace.
-        - Recruited high-caliber development personnel, prioritizing candidates with history of helping employers
-        execute business goals by exceeding expectations.
-        - Worked closely with customers, internal staff and other stakeholders to determine planning, implementation
-        and integration of cloud-based solutions.
+        I work in a hands-on engineering manager role. I work with several engineering teams to ensure we are shipping scalable,
+        secure, and tested software for our customers. My main focus has been the COVID Tracer app.
       technology: |
         ASP.NET Core,
         C#,
@@ -74,14 +69,8 @@ experiences:
       company: Xero
       logo: xero-logo.png
       details: |
-        Senior Developer on the practice platform team. I acted as a lead in a team of 4 developers and one
-        product owner.
-        - Revised, modularized and updated old code bases to modern development standards, reducing operating costs
-        and improving functionality.
-        - Collaborated on stages of the software development lifecycle from requirement gathering to production
-        releases.
-        - Designed and maintained streamlined, reusable and reliable code for use within distributed cloud environments,
-        using a test-driven approach.
+        I worked in a squad on the Practice Platform team. Our focus was on improving the quality, performance, and reliability of
+        several services, including background processes and REST APIs.
       technology: |
         .NET Framework,
         ASP.NET Core,
@@ -97,11 +86,7 @@ experiences:
       company: Rush Digital
       logo: rush-logo.png
       details: |
-        Senior Software Engineer and squad lead at Rush on a product team for a major customer account.
-        - Worked with software development and testing team members to design and develop robust solutions to meet
-        client requirements for functionality, scalability and performance.
-        - Communicated with internal stakeholders to illustrate deficits and bottlenecks within existing software.
-        - Improved DevOps across deployment and testing strategies and application monitoring.
+        I worked on the team building the app and backend services for the Caltex Pay In App mobile app.
       technology: |
         ASP.NET Core,
         C#,
@@ -122,12 +107,7 @@ experiences:
       company: Rush Digital
       logo: rush-logo.png
       details: |
-        Senior Software Engineer at Rush on the platform team for a major customer account.
-        - Collaborated with other developers to design and implement a new notifications system that achieved a
-        100-fold improvement to notification performance.
-        - Completed analysis, design, implementation, and testing phases of software development life cycle in
-        an established cloud-based microservices architecture.
-        - Orchestrated efficient large-scale software deployments.
+        I worked on the team building the app and backend services for the Caltex Pay In App mobile app.
       technology: |
         ASP.NET Core,
         C#,
@@ -146,13 +126,8 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer and Technical Lead at Valocity on the global platform team. I was responsible for designing and
-        implementing the next generation of the product and leading a team of developers and testers to deliver this product to a
-        large market.
-        - Led the design and implementation of a new cloud-based valuation product to serve the Indian market. This was designed to
-        operate at scale, using microservices hosted in Kubernetes, with a focus on loose coupling, high observability, and ensuring
-        service boundaries were aligned to business concepts.
-        - Designed and implemented DevOps pipelines, using GitLab and later Azure Devops.
+        I worked as a technical lead on the global platform team. I was responsible for designing and implementing the next
+        generation of the product and leading a team of developers/testers to deliver this product to a large market.
       technology: |
         ASP.NET Core,
         C#,
@@ -176,13 +151,10 @@ experiences:
       company: Valocity Ltd
       logo: valocity-logo.png
       details: |
-        Senior Software Engineer at Valocity. I was responsible for feature development and bug fixes as part of 
-        an agile software development team, as well as designing and implementing new software to enable migrating
-        away from a .NET Framework monolith to microservices using .NET Core.
-        - Achieved a 10-fold improvement to message handling performance by revising and optimizing a backend message
-        broker system
-        - Test-driven approach to software development, with projects spanning designing and building microservices, serverless
-        applications, and chatbots
+        I worked as a software engineer on the team responsible for migrating the New Zealand product to be fit for
+        the Australian market. I was responsible for feature development, performance improvements, and bug fixes as
+        part of an agile software development team, as well as designing and implementing new software to enable
+        migrating away from a .NET Framework monolith to microservices using .NET Core.
       technology: |
         ASP.NET (MVC),
         .NET Framework,
@@ -203,19 +175,8 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Engineer at Datacom on the Mobile Innovation team.
-          - Designed and implemented a global CMS platform for virtual/augmented reality applications 
-          for education. This included storing application details; application content; configuration 
-          and state data for peer-to-peer networking; licensing data; and identity and access management. 
-          The platform was designed to be compliant with the GDPR and data sovereignty constraints. 
-          - Collaborated with other developers to design andimplement a system that used computer vision and various 
-          Azure services to support accident and injury prevention in the workplace. This project was showcased at
-          MS Build 2018, and was a finalist in the Microsoft Partner Awards.
-          - Wrote virtual assistant software for the Amazon Alexa service, using .NET Core
-          - Created a proof of concept predictive modeling system, for a customer in the engineering 
-          industry. This work included cleaning and preprocessing a large dataset, feature engineering,
-          dimensionality reduction using PCA, training regression models using LSTM networks, and 
-          presenting the output in a usable format.
+        I worked as a software engineer on the Mobile Innovation team. I was responsible for
+        designing, building, testing, and maintaining various small and medium software projects.
       technology: |
         ASP.NET Core,
         .NET Core,
@@ -243,15 +204,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on an internal tools team.
-        - Designed and implemented software for a service desk automation project. This involved the automatic creation and
-        assignment of support requests received via email, using a combination of business rules and machine learning techniques,
-        including document classification and latent semantic analysis. 
-        - Wrote a service desk chat bot, integrating the Microsoft Bot Framework and CA Service Desk. Implemented support for
-        phrase cycling, translation, authentication and authorization, regex matching, LUIS integration, QnA integration, spelling
-        correction, sentiment analysis, and global behavior handlers, such as help, cancel, or escalate. This included writing
-        middleware to enable internal use with an on-premise implementation of Skype for Business, using the UCWA and Direct Line APIs
-        - Designed, developed, and maintained internal web applications, databases, data warehouses, and SQL reports
+        I worked as a software developer on an internal tools team. I was responsible for designing, building,
+        testing, and maintaining a range of applications, including RPA, web applications, REST APIs, long-running
+        services, chatbots, and more. I also occasionally moonlighted as a BI developer.
       technology: |
         ASP.NET (Web API and MVC),
         .NET Framework,
@@ -280,9 +235,9 @@ experiences:
       company: Datacom Systems Ltd
       logo: datacom-logo.png
       details: |
-        Software Developer at Datacom on an internal service delivery team. 
-        - Automated various manual and administrative tasks, saving an overall 3.25 FTE worth of human effort
-        - Developed and maintained internal web applications, databases, data warehouses, and SQL reports
+        I worked as a software developer on an internal tools team. I was responsible for designing, building,
+        testing, and maintaining a range of applications, including RPA, web applications, REST APIs, long-running
+        services, chatbots, and more. I also occasionally moonlighted as a BI developer.
       technology: |
         ASP.NET (Web API and MVC),
         .NET Framework,
