@@ -47,13 +47,34 @@ education:
       time: 2009 - 2011
       details: | 
 experiences:
+    - role: Senior Software Engineer
+      time: 2022
+      company: IAG
+      logo: iag-logo.jpg
+      details: |
+        I work on one of the broker platform teams, building and supporting scalable REST services in a distributed system,
+        hosted in Azure, with an emphasis on DDD, CQRS, and event sourcing.
+
+      technology: |
+        .NET,
+        C#,
+        Azure,
+        CosmosDB,
+        Kubernetes,
+        DevOps (Azure DevOps),
+        Distributed systems,
+        DDD,
+        CQRS,
+        Event Sourcing
     - role: Technical Director
       time: 2021
       company: Rush Digital
       logo: rush-logo.png
       details: |
-        I work in a hands-on engineering manager role. I work with several engineering teams to ensure we are shipping scalable,
-        secure, and tested software for our customers. My main focus has been the COVID Tracer app.
+        I worked in a hands-on engineering manager role. I worked with several engineering teams to ensure we were shipping 
+        scalable, secure, and tested software for our customers. My main focus was the COVID Tracer app. I was also a hiring
+        manager for senior engineering roles.
+
       technology: |
         ASP.NET Core,
         C#,
